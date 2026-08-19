@@ -1,2 +1,2 @@
 # New Project
-Repositório para projetos
+Repositório para projetos de Desenvolvimento Web.
